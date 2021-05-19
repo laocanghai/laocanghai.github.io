@@ -55,8 +55,7 @@
     }), 2 * commentTime);
   };
 
-  $('body').append("  <style id=\"style-tag\"></style>\n<span id=\"echo\"></span>\n<span id=\"heart\"><i></i></span>\n<pre id=\"style-text\"></pre>\n  <div style = 'position: fixed;left: 30px;bottom: 10px;'>\n    <a id='skipAnimation'>跳过动画</a>\n    <a style='color: #fff' href='http://laocanghai.github.io'>重新播放</a>\n    <a style='color: #fff' target=\"_blank\" href='https://github.com/laocanghai/laocanghai.github.io'>项目地址</a>\n    <a style='color: #fff' target=\"_blank\" href='https://kg3.qq.com/node/user/54746ed5cc/song/play-VtKkQlat6g?s=WPCMLmWjmOwKWWYH&shareuid=639d9e80252e328330&topsource=a0_pn201001006_z11_u103503584_l0_t1621428673__&chain_share_id=DALs21jJee3T0ymsKm2cKyj-htFC1C_VY3r5mLIhQxU
-'>另一些小礼物</a>\n  </div>");
+  $('body').append("  <style id=\"style-tag\"></style>\n<span id=\"echo\"></span>\n<span id=\"heart\"><i></i></span>\n<pre id=\"style-text\"></pre>\n  <div style = 'position: fixed;left: 30px;bottom: 10px;'>\n    <a id='skipAnimation'>跳过动画</a>\n    <a style='color: #fff' href='http://laocanghai.github.io'>重新播放</a>\n    <a style='color: #fff' target=\"_blank\" href='https://github.com/laocanghai/laocanghai.github.io'>项目地址</a>\n    <a style='color: #fff' target=\"_blank\" href='https://kg.qq.com/node/user/54746ed5cc/song/play-dNkNnyAAgP?s=WPCMLmWjmOwKWWYH&shareuid=639d9e80252e328330&topsource=a0_pn201001004_z11_u103503584_l0_t1621428621__&chain_share_id=DALs21jJee3T0ymsKm2cKyj-htFC1C_VY3r5mLIhQxU&g_f='>另一些小礼物</a>\n  </div>");
 
   commentTime = 60;
 
